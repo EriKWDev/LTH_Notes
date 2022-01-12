@@ -1,0 +1,2 @@
+# Behörighet
+[[Behörighet]] är det som klart och tydligt anges i fullmakten att fullmaktsgivaren tillåter fullmaktstagaren att göra. Detta till skillnad från [[befogenhet]] som är eventuella andra krav som ställts i omständigheter runt omkring fullmakten.

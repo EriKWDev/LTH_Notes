@@ -1,0 +1,2 @@
+# Befogenhet
+Se [[behörighet]]
